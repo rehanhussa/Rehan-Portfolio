@@ -56,8 +56,7 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            Adipiscing arcu, in aliquam fringilla cursus. Elit arcu elementum
-            viverra malesuada sem ac faucibus dolor. Sagittis scelerisque.
+          A dedicated Software Engineer with a rich background in both tech and leadership roles, blending programming expertise with a proven track record in team management and customer-centric initiatives. From crafting engaging web applications to leading high-performing teams in the retail and restaurant sectors, I'm passionate about leveraging my diverse skill set to drive innovation and deliver exceptional results.
           </p>
         </motion.div>
 
